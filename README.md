@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
 # Teste de Software Javascript - Jest, sucrase e integração contínua com CircleCI
 
 ### Criar o package.json
