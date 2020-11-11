@@ -1,6 +1,8 @@
 
 # Teste de Software Javascript - Jest, sucrase e integração contínua com CircleCi
 
+[![Build Status](https://travis-ci.org/ninamadeira/circleci1.svg?branch=main)](https://travis-ci.org/ninamadeira/circleci1)
+
 ### Criar o package.json
 ```
 npm init -y
