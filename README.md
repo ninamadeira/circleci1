@@ -1,5 +1,5 @@
 
-# Teste de Software Javascript - Jest, sucrase e integração contínua com CircleCi
+# Teste de Software Javascript - Jest, sucrase e integração contínua com TravisCI
 
 [![Build Status](https://travis-ci.org/ninamadeira/circleci1.svg?branch=main)](https://travis-ci.org/ninamadeira/circleci1)
 
